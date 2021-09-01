@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 ```shell
-git clone https://github.com/xorth/chain-of-responsibility.git
+git clone https://github.com/jorgecortesdev/chain-of-responsibility.git
 cd chain-of-responsibility
 composer install
 ```
